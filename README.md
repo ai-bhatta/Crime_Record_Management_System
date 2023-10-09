@@ -1,4 +1,4 @@
-# Crime_record_management_system
+# CRIME RECORD MANAGEMENT SYSTEM
 Hey ya!
  I've been obsessed with crime thrillers from a long time now, so what else could've been better than making a crime record management system??😸
  
