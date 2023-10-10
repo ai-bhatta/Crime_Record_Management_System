@@ -6,7 +6,7 @@ Hey ya!
 
 -This is a crime record management system made using python and MySQL. 
 
--The libraries I've used to develop include-pandas, matplotlib, numpy, seaborn rtc.
+-The libraries I've used to develop include-pandas, matplotlib, numpy, seaborn etc.
 
 -Used Sql connector to load details of criminals from the database. The project’s interface is very user-friendly and helpful for authority, it has an option to work in offline mode as well. 
 
